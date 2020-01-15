@@ -1,0 +1,21 @@
+2020-01-15 16:43:44,132 INFO 39371 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-01-15 16:43:44,138 INFO 39371 [egg:core] dump config after load, 3ms
+2020-01-15 16:43:44,163 INFO 39371 [egg-watcher] Start watching: ["/Users/guoqianrong/Desktop/egg-mysite/app","/Users/guoqianrong/Desktop/egg-mysite/config","/Users/guoqianrong/Desktop/egg-mysite/mocks","/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy","/Users/guoqianrong/Desktop/egg-mysite/app.js"]
+2020-01-15 16:43:44,163 INFO 39371 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app"
+2020-01-15 16:43:44,163 INFO 39371 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/config"
+2020-01-15 16:43:44,163 INFO 39371 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks"
+2020-01-15 16:43:44,164 INFO 39371 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy"
+2020-01-15 16:43:44,164 INFO 39371 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app.js"
+2020-01-15 16:43:44,164 INFO 39371 [egg-watcher:agent] watcher start success
+2020-01-15 16:43:44,175 INFO 39371 [egg:core] dump config after ready, 8ms
+2020-01-15 16:43:44,585 INFO 39371 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/guoqianrong/Desktop/egg-mysite/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12201676,"size":64,"blocks":0,"atimeMs":1579077824573.673,"mtimeMs":1579077824573.673,"ctimeMs":1579077824573.673,"birthtimeMs":1579077824573.673,"atime":"2020-01-15T08:43:44.574Z","mtime":"2020-01-15T08:43:44.574Z","ctime":"2020-01-15T08:43:44.574Z","birthtime":"2020-01-15T08:43:44.574Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-01-15 16:51:59,024 INFO 40635 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-01-15 16:51:59,030 INFO 40635 [egg:core] dump config after load, 3ms
+2020-01-15 16:51:59,053 INFO 40635 [egg-watcher] Start watching: ["/Users/guoqianrong/Desktop/egg-mysite/app","/Users/guoqianrong/Desktop/egg-mysite/config","/Users/guoqianrong/Desktop/egg-mysite/mocks","/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy","/Users/guoqianrong/Desktop/egg-mysite/app.js"]
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app"
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/config"
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks"
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy"
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app.js"
+2020-01-15 16:51:59,054 INFO 40635 [egg-watcher:agent] watcher start success
+2020-01-15 16:51:59,066 INFO 40635 [egg:core] dump config after ready, 7ms

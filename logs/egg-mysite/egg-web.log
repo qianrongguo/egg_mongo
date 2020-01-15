@@ -1,0 +1,29 @@
+2020-01-15 16:43:44,522 INFO 39372 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-01-15 16:43:44,540 INFO 39372 [egg-multipart] stream mode enable
+2020-01-15 16:43:44,573 INFO 39372 [egg-static] starting static serve /public/ -> /Users/guoqianrong/Desktop/egg-mysite/app/public
+2020-01-15 16:43:44,575 INFO 39372 [egg-security] use csrf middleware
+2020-01-15 16:43:44,575 INFO 39372 [egg-security] use methodnoallow middleware
+2020-01-15 16:43:44,575 INFO 39372 [egg-security] use noopen middleware
+2020-01-15 16:43:44,576 INFO 39372 [egg-security] use nosniff middleware
+2020-01-15 16:43:44,576 INFO 39372 [egg-security] use xssProtection middleware
+2020-01-15 16:43:44,576 INFO 39372 [egg-security] use xframe middleware
+2020-01-15 16:43:44,578 INFO 39372 [egg-security] use dta middleware
+2020-01-15 16:43:44,578 INFO 39372 [egg-security] compose 7 middlewares into one security middleware
+2020-01-15 16:43:44,583 INFO 39372 [egg:core] dump config after load, 3ms
+2020-01-15 16:43:44,592 INFO 39372 [egg-watcher:application] watcher start success
+2020-01-15 16:43:44,595 INFO 39372 [egg:core] dump config after ready, 2ms
+2020-01-15 16:51:59,467 INFO 40636 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-01-15 16:51:59,488 INFO 40636 [egg-multipart] stream mode enable
+2020-01-15 16:51:59,517 INFO 40636 [egg-static] starting static serve /public/ -> /Users/guoqianrong/Desktop/egg-mysite/app/public
+2020-01-15 16:51:59,518 INFO 40636 [egg-security] use csrf middleware
+2020-01-15 16:51:59,519 INFO 40636 [egg-security] use methodnoallow middleware
+2020-01-15 16:51:59,519 INFO 40636 [egg-security] use noopen middleware
+2020-01-15 16:51:59,519 INFO 40636 [egg-security] use nosniff middleware
+2020-01-15 16:51:59,519 INFO 40636 [egg-security] use xssProtection middleware
+2020-01-15 16:51:59,520 INFO 40636 [egg-security] use xframe middleware
+2020-01-15 16:51:59,520 INFO 40636 [egg-security] use dta middleware
+2020-01-15 16:51:59,520 INFO 40636 [egg-security] compose 7 middlewares into one security middleware
+2020-01-15 16:51:59,526 INFO 40636 [egg:core] dump config after load, 3ms
+2020-01-15 16:51:59,535 INFO 40636 [egg-watcher:application] watcher start success
+2020-01-15 16:51:59,539 INFO 40636 [egg:core] dump config after ready, 3ms
+2020-01-15 16:52:07,723 INFO 40636 [egg-view-nunjucks] loading templates from ["/Users/guoqianrong/Desktop/egg-mysite/app/view"]
