@@ -19,3 +19,26 @@
 2020-01-15 16:51:59,054 INFO 40635 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app.js"
 2020-01-15 16:51:59,054 INFO 40635 [egg-watcher:agent] watcher start success
 2020-01-15 16:51:59,066 INFO 40635 [egg:core] dump config after ready, 7ms
+2020-01-15 17:56:40,791 INFO 44357 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-01-15 17:56:40,797 INFO 44357 [egg:core] dump config after load, 3ms
+2020-01-15 17:56:40,821 INFO 44357 [egg-watcher] Start watching: ["/Users/guoqianrong/Desktop/egg-mysite/app","/Users/guoqianrong/Desktop/egg-mysite/config","/Users/guoqianrong/Desktop/egg-mysite/mocks","/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy","/Users/guoqianrong/Desktop/egg-mysite/app.js"]
+2020-01-15 17:56:40,822 INFO 44357 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app"
+2020-01-15 17:56:40,822 INFO 44357 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/config"
+2020-01-15 17:56:40,823 INFO 44357 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks"
+2020-01-15 17:56:40,823 INFO 44357 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy"
+2020-01-15 17:56:40,823 INFO 44357 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app.js"
+2020-01-15 17:56:40,823 INFO 44357 [egg-watcher:agent] watcher start success
+2020-01-15 17:56:40,837 INFO 44357 [egg:core] dump config after ready, 5ms
+2020-01-15 20:30:41,845 INFO 45007 [egg:logger] init all loggers with options: {"dir":"/Users/guoqianrong/Desktop/egg-mysite/logs/egg-mysite","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-mysite-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-01-15 20:30:41,850 INFO 45007 [egg:core] dump config after load, 2ms
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: ["/Users/guoqianrong/Desktop/egg-mysite/app","/Users/guoqianrong/Desktop/egg-mysite/config","/Users/guoqianrong/Desktop/egg-mysite/mocks","/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy","/Users/guoqianrong/Desktop/egg-mysite/app.js"]
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app"
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/config"
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks"
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/mocks_proxy"
+2020-01-15 20:30:41,877 INFO 45007 [egg-watcher] Start watching: "/Users/guoqianrong/Desktop/egg-mysite/app.js"
+2020-01-15 20:30:41,878 INFO 45007 [egg-watcher:agent] watcher start success
+2020-01-15 20:30:41,887 INFO 45007 [egg:core] dump config after ready, 4ms
+2020-01-15 20:35:57,566 INFO 45007 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/guoqianrong/Desktop/egg-mysite/app/service/news.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12204566,"size":900,"blocks":8,"atimeMs":1579091750950.2268,"mtimeMs":1579091757505.7578,"ctimeMs":1579091757505.7578,"birthtimeMs":1579078510713.0283,"atime":"2020-01-15T12:35:50.950Z","mtime":"2020-01-15T12:35:57.506Z","ctime":"2020-01-15T12:35:57.506Z","birthtime":"2020-01-15T08:55:10.713Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-01-15 20:35:57,770 WARN 45007 [agent:development] reload worker because /Users/guoqianrong/Desktop/egg-mysite/app/service/news.js change
+2020-01-15 20:36:02,186 INFO 45007 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/guoqianrong/Desktop/egg-mysite/app/service","stat":{"dev":16777220,"mode":16877,"nlink":3,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":12204515,"size":96,"blocks":0,"atimeMs":1579091762000,"mtimeMs":1579091762000,"ctimeMs":1579091762182.3052,"birthtimeMs":1579078496000,"atime":"2020-01-15T12:36:02.000Z","mtime":"2020-01-15T12:36:02.000Z","ctime":"2020-01-15T12:36:02.182Z","birthtime":"2020-01-15T08:54:56.000Z"},"remove":false,"isDirectory":true,"isFile":false}
